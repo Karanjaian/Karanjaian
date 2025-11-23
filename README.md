@@ -1,16 +1,48 @@
-## Hi there 👋
+## Hi, I'm Ian Karanja
 
-<!--
-**Karanjaian/Karanjaian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Student | Ethical Hacking Enthusiast | AI & Cloud Security Learner
 
-Here are some ideas to get you started:
+I'm a second-year Computer Science student from Nairobi, Kenya, currently diving deep into cybersecurity, ethical hacking, cloud security, and AI-driven security systems.
+I love breaking things, understanding how they work, and building them back stronger.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What i am working on.
+
+- Enhancing my skills in Python for cybersecurity
+
+- Learning Cloud Security (AWS & Azure basics)
+
+- Practicing on Hack The Box, TryHackMe, and CTF challenges
+
+## What I’m Learning Right Now
+
+- Ethical hacking fundamentals (Kali Linux, Metasploit, Burp Suite)
+
+- Networking for cybersecurity
+
+- Digital forensics & incident response
+
+- Malware analysis basics
+
+- Wireshark packet analysis
+
+## Tech Stack & Tools
+- Languages: Python, Bash, Java, C, Assembly (x86 basics)
+- Cybersecurity: Nmap, Burp Suite, Metasploit, Wireshark, Hydra
+- Cloud: AWS (beginner)
+- Other: Git/GitHub, Linux.
+
+## Projects & Interests
+
+- Security automation scripts
+
+- CTF write-ups and exploit walkthroughs
+
+- AI + Cybersecurity integrations
+
+- OS concepts, microprocessor architecture, and system programming
+ 
+## Reach Me
+
+Email: iankaranja13763@gmail.com
+
+Location: Nairobi, Kenya
