@@ -2,7 +2,7 @@
 
 Cybersecurity Student | Ethical Hacking Enthusiast | AI & Cloud Security Learner
 
-I'm a second-year Computer Science student from Nairobi, Kenya, currently diving deep into cybersecurity, ethical hacking, cloud security, and AI-driven security systems.
+I'm a third-year Computer Science student from Nairobi, Kenya, currently diving deep into cybersecurity, ethical hacking, cloud security, and AI-driven security systems.
 I love breaking things, understanding how they work, and building them back stronger.
 
 ## What i am working on.
